@@ -15,5 +15,3 @@
 
 * I learned about the ways of positioning elements in the HTML and CSS.
 * I learn in this project in deapt of CSS
-
-
