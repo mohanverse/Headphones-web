@@ -1,11 +1,11 @@
 # Headphones-web
 # [vercel]()
-## Project10 | Interior-disign <a><button name="button" style = "color: red" onclick="https:">`HTML CSS` project10</button></a>
+## Project 7 | Interior-disign <a><button name="button" style = "color: red" onclick="https:">`HTML CSS` project10</button></a>
 ## By mohanverse
 
 # Live Link-: [Headphones-web](Headphones-web)
 
-![project 7](./images/Screenshot%20(50).png)
+![project 7](./Screenshot(50).png
 
 # What I Learned from this project
 
