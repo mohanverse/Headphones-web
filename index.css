@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Red Rose";
+
+}
+nav{
+    width: 100%;
+    height: 100vh;
+    padding: 15px 0;
+    
+    justify-content: space-between;
+    position: absolute;
+    display: inline-block;
+
+   
+
+}
+nav img{
+   
+   margin-left: 3%;
+   display: inline-block;
+   position: relative;
+   
+    
+}
+
+
+.nav-items{
+    width: 28%;
+    margin: auto;
+    padding: 20px 0;
+    display:inline-flex;
+    justify-content: space-between;
+    font-size: 25px;
+    color: black;
+    margin-left: 13%;
+    text-align: justify;
+   
+    margin-right: 19%;
+    position: relative;
+}
+.intro-section{
+    width: 100%;
+    margin: auto;
+    padding: 15px 0;
+    display:flex;
+    justify-content: space-between;
+    font-weight: bolder;
+    color: black;
+    margin-left: 3%;
+    text-align: justify;
+    align-items:flex-end;
+    margin-right: 3%;
+   margin-bottom:5% ; 
+   position:relative;
+}
+.left-section{
+    position: relative;
+    width: 100%;
+    font-size: 35px;
+    margin-bottom: 47%;
+    margin-top: 10%;
+   
+    
+
+}
+.right-section{
+
+    position: relative;
+    width: 100%;
+    font-size: 40px;
+    margin-bottom: 40%;
+   
+    
+    
+    
+}
+.headphone-div{
+    width:90%;
+    position: absolute;
+    margin-left: 10px;
+    bottom: 37%;
+   
+  
+}
+.discount{
+    width:200px;
+    position:absolute;
+     top: 60%;
+   
+    
+    
+    
+}
+.discount-content{
+    width:250px;
+    position:absolute;
+    font-size: 20px;
+    color:aliceblue;
+    top: 68%;
+    left:45px;
+    
+    
+}
+.action-btn{ 
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #fe5e35;
+    background:#fe5e35;
+    color:aliceblue;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden; 
+    font-size: 20px;
+    margin-top: 7%;
+    
+}
+.actiono{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #fe5e35;
+    background-color:#fe5e35;
+    color:aliceblue;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden; 
+    font-size: 20px;
+    margin-left: 30%;
+    margin-bottom: 12%;
+    
+
+}
+
+.dots{
+    width:50%;
+    position: absolute;
+     margin-left: 30px;
+     bottom: 35%;
+     color: #fe5e35;
+}
+
+.dot yellow-dot{
+    color: rgb(255, 255, 29);
+}
+.dot tomato-dot{
+color: #fe5e35;
+}
+.dot black-dot{
+  color: black;
+
+
+}
+.sub-headlines{
+    width: 100%;
+    margin-left: 7%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    color: #fe5e35;
+    justify-content: space-between;
+}
+.text{
+    width: 100%;
+    font-size: 15px;
+}
+.nav-items nav-items left-section h3{
+    width: 100%;
+    margin-bottom: 5%;
+}
+.nav-item active-item{
+    color:#fe5e35;
+}
+ 
+.headphone-div{
+    margin-bottom:9%;
+    margin-right: 10%;
+}
