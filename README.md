@@ -5,7 +5,7 @@
 
 # Live Link-: [Headphones-web](Headphones-web)
 
-![project 7](./Screenshot(50).png
+![project 7](./Screenshot(50).png)
 
 # What I Learned from this project
 
