@@ -1,9 +1,9 @@
 # Headphones-web
 # [vercel](https://vercel.com/mohanverse/headphones-web/5GqSPhbKfyefDhnJ4txhnFBzX9SX)
-## Project 7 | Interior-disign <a><button name="button" style = "color: red" onclick="https:">`HTML CSS` project10</button></a>
+## Project 7 |  <a><button name="button" style = "color: red" onclick="https:">`HTML CSS` project10</button></a>
 ## By mohanverse
 
-# Live Link-: [Headphones-web](Headphones-web)
+# Live Link-:[Headphones-web](Headphones-web)
 
 ![project 7](./Screenshot(50).png)
 
