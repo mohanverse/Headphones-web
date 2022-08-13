@@ -11,10 +11,6 @@
 ## By mohanverse
 
 # Live Link-:[Headphones-web](Headphones-web)
-
-![project 7](./Screenshot(50).png)
-f264d847984ea97e803a3bbbb4aae74d8b8d6b10
-
 # What I Learned from this project
 
 * This project gave me good learning experience.
